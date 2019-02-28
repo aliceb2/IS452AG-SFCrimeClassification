@@ -10,3 +10,5 @@ San Francisco has become an industrial market and with growing populations comes
 •	Resolution. This will give the user an insight into what actions were taken for what kind of crimes. Basically we’re looking for high profile crimes that went unattended or were tended with least intensity, if any. The user should know the kind of actions taken in case of a crime so that it ensures that safety.
 
 •	Time and date and day. Crime density will be displayed based on the time and the day of the week they occurred, so that the user has an insight into what days and times are safer than the rest.
+
+Dataset (train.csv) file available at https://www.kaggle.com/c/sf-crime
